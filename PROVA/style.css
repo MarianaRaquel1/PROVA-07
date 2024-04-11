@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    background-color: black;
+    height: 10rem;
+    }
+
+header h1{ 
+    color: aliceblue;
+    margin: 3rem;
+}
+
+
+header img{
+    width: 200px;
+    margin: 2rem;
+
+}
+
+
+
+main section{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    padding: 2rem;
+}
